@@ -65,3 +65,10 @@ Nine tests are included.
 - ## Project Preview
 
 ![Employee Validation Report](screenshots/report-preview.png)
+
+## Run the GUI Application
+
+Install the dependencies:
+
+```bash
+pip install -r requirements.txt
