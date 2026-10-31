@@ -72,3 +72,11 @@ Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## Application Screenshots
+
+### Employee Data Upload Interface
+![GUI Preview](screenshots/gui-preview.png)
+
+### Validation Results
+![Validation Results](screenshots/validation-results.png)
