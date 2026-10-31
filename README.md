@@ -62,10 +62,7 @@ Nine tests are included.
 - `create_sample_data.py`: creates sample Excel input
 - `requirements.txt`: required Python packages
 
-- ## Project Preview
-
-![Employee Validation Report](screenshots/report-preview.png)
-
+- 
 ## Run the GUI Application
 
 Install the dependencies:
@@ -74,13 +71,3 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-## Application Screenshots
-
-### Employee Data Upload Interface
-![GUI Preview](screenshots/gui-preview.png)
-
-### Validation Results
-![Validation Results](screenshots/validation-results.png)
-
-### Generated Excel Report
-![Excel Report](screenshots/report-preview.png)
