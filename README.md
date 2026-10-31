@@ -81,3 +81,11 @@ pip install -r requirements.txt
 
 ### Generated Excel Report
 ![Excel Report](screenshots/report-preview.png)
+
+## 🌐 Live Demo
+
+Try the Employee Data Validation System here:
+
+[Launch Live Application](https://employee-data-validation-system-7b5e2drrgnrjh7gzeqbzyx.streamlit.app/)
+
+Upload an Excel file, validate employee records, view detected defects, and download the generated Excel report.
