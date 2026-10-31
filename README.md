@@ -65,6 +65,3 @@ Nine tests are included.
 - ## Project Preview
 
 ![Employee Validation Report](screenshots/report-preview.png)
-## Project Preview
-
-![Employee Validation Report](screenshots/report-preview.png)
