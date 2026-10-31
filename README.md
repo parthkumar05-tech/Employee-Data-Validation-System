@@ -61,3 +61,7 @@ Nine tests are included.
 - `test_validation.py`: automated unit tests
 - `create_sample_data.py`: creates sample Excel input
 - `requirements.txt`: required Python packages
+
+- ## Project Preview
+
+![Employee Validation Report](screenshots/report-preview.png)
